@@ -1,0 +1,7 @@
+packages:
+	# typescript packages destined for node repository
+  - 'packages/*'
+	# react packages and sites
+  - 'react/*'
+	# vue packages and sites
+  - 'vue/*'

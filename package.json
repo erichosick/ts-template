@@ -1,0 +1,17 @@
+{
+  "name": "@erichosick/ts-template",
+  "version": "0.0.0",
+  "description": "A template for typescript projects using pnpm workspaces, eslint.",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx -y only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "npm": "Use pnpm instead of npm.",
+    "node": "18.x || 19.x || 20.x",
+    "pnpm": ">=8.0.0"
+  }
+}
