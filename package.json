@@ -13,5 +13,8 @@
     "npm": "Use pnpm instead of npm.",
     "node": "18.x || 19.x || 20.x",
     "pnpm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
   }
 }
